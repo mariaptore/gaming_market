@@ -1,22 +1,7 @@
-## Study project. Gaming market research
+## Study projects
 
-### Data 
-Dataset from open sources about video games from 1980 with data:
-- name of the game;
-- colsole it was realeased at;
-- year of the release;
-- game genre;
-- sales by regions;
-- user's and critic's score
-- age raiting.
+These project were done in Yandex.Praktikum course for Data Analyst course. 
 
-### Task
-Explore the data to understand which games are popular now and which games could be recommended to promotion and sells next year in a game shop.
-
-### Used libraries
-- pandas
-- display
-- numpy
-- stats 
-- math
-- matplotlib.pyplot
+| Project name | Description | Used libraries |
+| :---------------------- | :---------------------- | :---------------------- |
+| [Gaming market research](gaming_market_research) | Explore the data to understand which games are popular now and which games could be recommended to promotion and sells next year in a game shop.| - pandas - display - numpy - stats  - math - matplotlib.pyplot |
