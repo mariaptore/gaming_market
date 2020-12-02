@@ -1,6 +1,6 @@
 ## Study projects
 
-These project were done in Yandex.Praktikum course for Data Analyst course. 
+These project were done in Yandex.Practikum course for Data Analyst course. 
 
 | Project name | Description | Used libraries |
 | :---------------------- | :---------------------- | :---------------------- |
